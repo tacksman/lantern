@@ -8,6 +8,8 @@ part './dart_generator.dart';
 
 part './swift_generator.dart';
 
+part './go_generator.dart';
+
 part './security_rules_generator.dart';
 
 class GeneratedCodeFile {
